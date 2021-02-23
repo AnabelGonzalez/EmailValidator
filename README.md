@@ -10,5 +10,5 @@ Minimalistic API Project. Validate Emails and evaluate the Quality Score.
 
 
 To view the live project go to:
-https://emailvalidator.anabelgonzalez.com/
+http://emailvalidator.anabelgonzalez.com/
 
